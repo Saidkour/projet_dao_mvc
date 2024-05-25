@@ -1,0 +1,9 @@
+{
+    "name": "kourbisse/projet-dao_mvc",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
